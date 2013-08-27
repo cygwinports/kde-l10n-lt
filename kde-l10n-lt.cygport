@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-lt"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Lithuanian translation files"
+DESCRIPTION="KDE Lithuanian translation files"
