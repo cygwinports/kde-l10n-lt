@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kde-l10n-lt"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Lithuanian translation files"
 DESCRIPTION="KDE Lithuanian translation files"
+
+ARCH=noarch
